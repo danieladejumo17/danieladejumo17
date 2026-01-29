@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Daniel Adejumo
-- 👀 I’m interested in Robotics, especially Robotic Manipulation and AI
+- 👀 I’m interested in Robotics, especially machine learning applied to dynamics and control
 - 🌱 I’m currently an MS student in Mechatronics and Robotics at NYU Tandon
-- 💞️ I’m looking to collaborate on Robotic Manipulation and Robotic Gait related projects
 - 📫 How to reach me - adejumodaniel17@gmail.com
 
 <!---
